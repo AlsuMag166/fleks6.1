@@ -7,3 +7,15 @@
     background: #eef;
     border: 2px dashed #88f;
     padding: 10px;
+}
+
+.child {
+    background: #6a9cff;
+    color: #fff;
+    width: 70px;
+    border-radius: 6px;
+}
+
+.child:nth-child(1) { height: 50px; }
+.child:nth-child(2) { height: 120px; }
+.child:nth-child(3) { height: 80px; }
