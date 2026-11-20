@@ -1,0 +1,9 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    height: 200px;
+    background: #eef;
+    border: 2px dashed #88f;
+    padding: 10px;
